@@ -1,0 +1,72 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/1index.html",
+    "items": [
+      "/Bloog/02indihome .html",
+      "/Bloog/01SOP.html"
+    ]
+  },
+  {
+    "listing": "/4Bank.html",
+    "items": [
+      "/4Bank/01 Bank dan Jenisnya.html",
+      "/4Bank/02 Transaksi Bank gagal.html"
+    ]
+  },
+  {
+    "listing": "/4EDC.html",
+    "items": [
+      "/4Edc/01 EDC dan Jenisnya.html",
+      "/4Edc/02 Baca ini sebelum transaksi.html",
+      "/4Edc/02 Wirecard.html",
+      "/4Edc/03 EDC BCA.html",
+      "/4Edc/04 EDC MTI.html",
+      "/4Edc/05 Cara Restart EDC.html",
+      "/4Edc/06 EDC Online.html",
+      "/4Edc/07 EDC Rusak.html",
+      "/4Edc/08 Struk EDC habis.html"
+    ]
+  },
+  {
+    "listing": "/4Ewallet.html",
+    "items": [
+      "/4Ewallet/EWALLET/01 qr.html"
+    ]
+  },
+  {
+    "listing": "/4isaku.html",
+    "items": [
+      "/4isaku/isaku/1Kupas tuntas.html",
+      "/4isaku/isaku/2COMPLAIN ISAKU.html"
+    ]
+  },
+  {
+    "listing": "/4kpi.html",
+    "items": [
+      "/4kpi/KPI/KPI 1.html"
+    ]
+  },
+  {
+    "listing": "/4Paypoint.html",
+    "items": [
+      "/4paypoint/bagian 1.html",
+      "/4paypoint/bagian 2.html",
+      "/4paypoint/bagian 3.html"
+    ]
+  },
+  {
+    "listing": "/4PulsaPln.html",
+    "items": [
+      "/4pulsaPLN/01 Ipulsa dan PLN.html",
+      "/4pulsaPLN/02 Gagal.html",
+      "/4pulsaPLN/03 BATV.html"
+    ]
+  }
+]
